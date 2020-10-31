@@ -5,7 +5,7 @@ class Header extends React.Component {
         return (
             <div>
                 <div className="header" >
-                    <input  className="search" type="text"/>
+					 我是购物车
                 </div>
             </div>
         )
