@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .header {
     /* width: 100%;
     height: 50px; */
@@ -22,3 +23,10 @@
     outline: none;
     border: none;
 } */
+=======
+.table {
+	padding: 20px;
+	display: flex;
+	flex-direction: column;
+}
+>>>>>>> 8d25955ed6df21f06f65f5f011ca7bd9a7300c8a
