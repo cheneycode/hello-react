@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import '../css/index.css'
 class Header extends React.Component {
 
@@ -24,7 +23,6 @@ class Header extends React.Component {
 
     // shouldComponentUpdate() {
     //     console.log('---->shouldComponentUpdate')
-    //     return true;
     // } //返回一个布尔值。在组件接收到新的props或者state时被调用。在初始化时或者使用forceUpdate时不被调用。可以在你确认不需要更新组件时使用。
 
     // componentWillUpdate() {
@@ -43,9 +41,7 @@ class Header extends React.Component {
             <div>
                 <div className="header" >
                     {/* <input ref={this.ipt} className="search" type="text" /> */}
-                    <Link to="/">111111</Link>
-                    <Link to="/link2">222222</Link>
-                    <Link to="/link3">333333</Link>
+                    333333333
                 </div>
             </div>
         )
