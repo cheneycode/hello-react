@@ -1,0 +1,16 @@
+.header {
+    display: block;
+    z-index: 999;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.top-bar {
+    position: flex;
+    background: #d43d3d;
+    height: 132px;
+    line-height: 132px;
+}
